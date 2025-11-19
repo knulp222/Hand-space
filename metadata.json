@@ -1,0 +1,7 @@
+{
+  "name": "Hand Space Physics",
+  "description": "A physics sandbox controlled by your hands using webcam tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
